@@ -217,8 +217,7 @@ color: black;
  word-wrap: break-word
 ```
 ## OUTPUT:
-
-<img width="960" alt="image" src="https://github.com/EPriyadharshini/Figma/assets/144870831/3117d9a7-2f07-4e8c-b742-c69d07ce4ca8">
+<img width="960" alt="image" src="https://github.com/EPriyadharshini/Figma/assets/144870831/88890555-dc30-4fc2-920b-94d573fee99d">
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
