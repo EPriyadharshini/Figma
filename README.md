@@ -34,6 +34,7 @@ Figma
 
 ## CODE:
 ```
+HOME PAGE
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <div style="left: 44px; top: 785px; position: absolute; color: white; font-size: 96px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">PRIDE</div>
     <div style="left: 367px; top: 787px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-style: italic; font-weight: 900; word-wrap: break-word">2<br/>K<br/>2<br/>3</div>
